@@ -14,6 +14,7 @@ format the substituted values
 ### Step 5: 
 print 
 ### PROGRAM:
+
 #Program to find the distance between two points.
 #Developed by:Gokul Prakash M
 #RegisterNumber:23013924
@@ -27,7 +28,7 @@ print(e)
 
 
 ### OUTPUT:
-![Alt text](image.png)
+![Alt text](image-1.png)
 
 ### RESULT:
 thus the distance between two points is successfully executed
